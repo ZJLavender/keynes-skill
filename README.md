@@ -164,7 +164,7 @@
 ## 安装
 
 ```bash
-npx skills add alchaincyf/keynes-skill
+npx skills add ZJLavender/keynes-skill
 ```
 
 然后在 Claude Code 里：
